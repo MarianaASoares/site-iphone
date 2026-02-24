@@ -9,7 +9,7 @@ function Highlights() {
         <section className="bg-black py-20 px-6" id="design">
             <div className="max-w-7xl mx-auto">
                 <div className="text-center mb-16">
-                    <h2 className="text-5xl font-bold mb-4">Design revolucionário</h2>
+                    <h2 className="text-3xl font-bold mb-4 md:text-5xl">Design revolucionário</h2>
                     <p className="text-xl text-gray-400">Cada detalhe foi pensado para criar a melhor experiência</p>
                 </div>
 
@@ -42,7 +42,7 @@ function Highlights() {
 
                 <div className="text-center" id="camera">
                     <h3 className="text-4xl font-bold mb-10">Sistema de câmera Pro Avançado</h3>
-                    <div className="grid grid-cols-3 gap-6"> 
+                    <div className=" flex flex-col md:grid md:grid-cols-3 gap-6"> 
                         <div className="bg-gray-900 rounded-2xl p-8 hover:scale-105  transition-all duration-300 cursor-pointer">
                             <div className="text-4xl font-bold text-blue-600 mb-4">48MB</div>
                             <h4 className="text-xl font-semibold mb-2">Principal</h4>
