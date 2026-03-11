@@ -57,10 +57,10 @@
 
 ```
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/MarianaASoares/site-iphone.git
 
 # Acesse a pasta do projeto
-cd NOME-DO-REPOSITORIO
+cd site-iphone
 
 # Instale as dependências
 npm install
