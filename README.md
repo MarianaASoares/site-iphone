@@ -24,7 +24,7 @@
 
 # :camera: Preview
 
- <img src="public/img/img-projeto-iphone.png" width = "450"> 
+ <img src="public/img/img-projeto-iphone.png" width = "100%"> 
 
  🔗 [Ver projeto](https://site-iphone-chi.vercel.app/) 
 
